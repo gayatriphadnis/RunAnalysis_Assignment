@@ -1,6 +1,6 @@
 ## Getting and Cleaning Data
 ### Run Analysis Assignment
-Following are the instructions to eun the code-
+Following are the instructions to run the code-
 * Copy the .R file to your working directory
 * Ensure that the dataset is present in the same directory
 * Source the code and run the program.
